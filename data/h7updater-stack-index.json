@@ -4,7 +4,7 @@
   "motto": "Layer stack \u00d7 A\u2013Z folders \u2014 Grok and warehouse read the same manifest.",
   "owner": "ZacharyGeurts",
   "sovereign_only_write": true,
-  "generated": "2026-07-03T04:01:07Z",
+  "generated": "2026-07-03T04:22:36Z",
   "pages_base": "https://zacharygeurts.github.io",
   "stack_order": "layer_z ascending, then name A\u2013Z within bucket",
   "folder_doctrine": {
